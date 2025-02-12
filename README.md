@@ -1,5 +1,5 @@
 
-#Almost Equal - Python Solution  
+# Almost Equal - Python Solution  
 
 ## Description  
 This Python program checks whether two strings are **almost equal**. Two strings are considered almost equal if we can make them identical by swapping **exactly one pair of characters** in one of the strings.  
